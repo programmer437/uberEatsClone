@@ -1,0 +1,30 @@
+.Mynavbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100vw;
+    background-color: rgb(251, 200, 32);
+}
+.sideNav{
+    margin-right: 50px;
+}
+.bars{
+    margin-left: 20px;
+}
+
+.icon{
+    font-size: 30px;
+}
+.login{
+    margin-right: 10px;
+    border-radius: 40px;
+    font-size: 17px;
+    font-weight: 550;
+}
+
+.signup{
+    border-radius: 40px;
+    font-size: 17px;
+
+}
