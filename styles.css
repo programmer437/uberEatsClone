@@ -1,0 +1,18 @@
+.Mynavbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100vw;
+    background-color: rgb(241, 201, 67);
+}
+.sideNav{
+    margin-right: 50px;
+}
+.bars{
+    margin-left: 20px;
+}
+
+.icon{
+    font-size: 30px;
+}
