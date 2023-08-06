@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(251, 200, 32);
+}
+
 .Mynavbar{
     position: fixed;
     top: 0;
