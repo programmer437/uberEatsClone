@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(251, 200, 32);
+    background-color: #fbc820;
+    overflow: scroll;
 }
 
 .Mynavbar{
@@ -19,6 +20,7 @@ body{
 
 .icon{
     font-size: 30px;
+    color: black;
 }
 .login{
     margin-right: 10px;
@@ -34,6 +36,8 @@ body{
 }
 
 
-
+.something{
+    height: 400px;
+}
 
 
