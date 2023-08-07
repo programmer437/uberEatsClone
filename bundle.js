@@ -10716,8 +10716,6 @@ window.onscroll = function (event) {
         $(nav).css("background-color","white");
     }else{
         $(nav).css("background-color","#fbc820");
-
-
     }
 };
 

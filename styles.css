@@ -1,12 +1,29 @@
-body{
-    background-color: #fbc820;
-    overflow: scroll;
+.searchFeild{
+    display: flex;
+    gap: 30px;
+}
+.dropDown{
+    color: black;
+    background-color: white;
+   
+    border: 2px solid black;
+    height: 3px;
+    width: 3px;
+    padding: 20px;
+
+   
+}
+.address{
+    text-decoration: none;
+    border: none;
+    
+    
+}
+.deliveryAdress{
+    border: 2px solid black;
 }
 
 .Mynavbar{
-    position: fixed;
-    top: 0;
-    left: 0;
     height: 100px;
     width: 100vw;
     background-color: rgb(251, 200, 32);
@@ -27,11 +44,14 @@ body{
     border-radius: 40px;
     font-size: 17px;
     font-weight: 550;
+    border: 1px solid black;
 }
 
 .signup{
     border-radius: 40px;
     font-size: 17px;
+    border: 1px solid #fbc820;
+
 
 }
 
